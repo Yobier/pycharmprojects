@@ -1,0 +1,2 @@
+# pycharmprojects
+all_projects
